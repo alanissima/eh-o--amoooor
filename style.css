@@ -1,8 +1,9 @@
 * {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: blueviolet;
-}
-
-p {
-  font-style: italic;
-}
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+  }
+  
+  p {
+    font-style: normal;
+    color: black;
+  }
