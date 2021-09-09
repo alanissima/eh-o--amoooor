@@ -1,6 +1,9 @@
-h1 {
-    color: red;
-  }
-  p {
-    color: green;
-  }
+
+* {
+  font-family: 'Times New Roman', Times, serif;
+  color: blueviolet;
+}
+
+p {
+  font-style: italic;
+}
