@@ -1,25 +1,31 @@
+table{
+  text-align: center;
+}
+
 th {
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
-    font-style: italic;
-    font-size: 25px;
-    background-color: red;
-  }
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-style: italic;
+  font-size: 25px;
+  background-color: red;
+  height: 60px;
+}
+
 body{
   background-image: url(images/fundo.jpg );
 }
   
- tr {
-    font-family: cursive;
-    font-style: unset;
-    color: black;
-    background-color: white;
-    
-    
-  }
-  table{
-    text-align: center;
-  }
-  button {
-    background-color: tomato;
-  }
+tr {
+  font-family: cursive;
+  font-style: unset;
+  color: black;
+  background-color: white;  
+}
+
+button {
+  background-color: tomato;
+  border: 0ch;
+  height: 55px;
+  font-size: 20px;
+  font-style: cursive;
+}
