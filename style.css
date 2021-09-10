@@ -1,20 +1,27 @@
 th {
     font-family: 'Times New Roman', Times, serif;
-    color: yellow;
+    color: white;
     font-style: italic;
     font-size: 25px;
+    background-color: red;
   }
 body{
-  background-image: url(images/fundo.jpg);
+  background-image: url(images/fundo.jpg ) ;
+  
 }
   
  tr {
     font-family: cursive;
     font-style: unset;
     color: black;
-    background-color: #d12e26;
+    background-color: white ;
+    
+
     
   }
   table{
     text-align: center;
+  }
+  button {
+    background-color: tomato;
   }
