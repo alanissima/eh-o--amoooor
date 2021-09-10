@@ -1,13 +1,20 @@
-th{
+th {
     font-family: 'Times New Roman', Times, serif;
+    color: yellow;
     font-style: italic;
-    color: black;
+    font-size: 25px;
   }
-  section{
-    background-color: red;
-  }
+body{
+  background-image: url(images/fundo.jpg);
+}
   
-  tr {
-    font-style: normal;
+ tr {
+    font-family: cursive;
+    font-style: unset;
     color: black;
+    background-color: #d12e26;
+    
+  }
+  table{
+    text-align: center;
   }
