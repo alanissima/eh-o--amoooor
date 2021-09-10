@@ -6,9 +6,7 @@ th {
     background-color: red;
   }
 body{
-  background-image: url(images/fundo.jpg)  ;
-  
-  
+  background-image: url(images/fundo.jpg );
 }
   
  tr {
@@ -17,8 +15,6 @@ body{
     color: black;
     background-color: white;
     
-   
-
     
   }
   table{
