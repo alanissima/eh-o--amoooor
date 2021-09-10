@@ -7,11 +7,11 @@ Para nos auxiliar a desenvolver nosso site nós criamos inicialmente um prótoti
 
 Protótipo do site:
 
-<img src="images/PrototipoSite.jpeg" width="750" align="center"/>
+<img src="images/PrototipoSite.jpeg" width="750"/>
 
 Versão final:
 
-<img src="images/SitePronto.jpeg" width="750" align="center"/>
+<img src="images/SitePronto.jpeg" width="750"/>
 
 ## Desenvolvedoras 
 Este projeto foi desenvolvido pelas alunas Alana Brandão, Maria Eduarda O. Becker, Maria Eduarda Heck e Nicolly Tavassi do curso Técnico em Informática Integrado ao Ensino Médio do Instituto Federal do Paraná.
